@@ -1,0 +1,2 @@
+# PalWorld_AutoBackUp
+幻兽帕鲁自动备份脚本_PalWorld_AutoBackUp,可通过计划任务程序实现服务器自动重启和自启动
